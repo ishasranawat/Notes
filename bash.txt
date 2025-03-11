@@ -1,1 +1,7 @@
 Bash- command line scripting language
+
+Steps-
+1. mkdir - to create a directory
+2. cd~ - to go to the directory
+3.touch - to create a file 
+4.open - to open the file
