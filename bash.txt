@@ -5,3 +5,7 @@ Steps-
 2. cd~ - to go to the directory
 3.touch - to create a file 
 4.open - to open the file
+
+More-
+1.ls- to list the content 
+
