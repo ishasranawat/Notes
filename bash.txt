@@ -6,13 +6,19 @@ Steps-
 3.touch - to create a file 
 4.open - to open the file
 
-More-
-1.ls- to list the content 
-2.cp- copy
+*---More---*
+1. ls- to list the content 
+2. cp- copy
 3.rm- remove files
 4.rmdir- remove directory
 5.~ - home directory
 5.vi- edit file
 6.cd..- go back to the previous folder
+
+*---Shortcuts---*
+1. Ctrl+U- to clear commands
+2. Option- to edit
+3. Ctrl+A - to go the beginning
+4. Ctrl+ E- to go to the end
 
 
