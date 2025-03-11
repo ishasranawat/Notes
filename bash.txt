@@ -10,5 +10,9 @@ More-
 1.ls- to list the content 
 2.cp- copy
 3.rm- remove files
-4.remdir- remove directory
+4.rmdir- remove directory
+5.~ - home directory
+5.vi- edit file
+6.cd..- go back to the previous folder
+
 
