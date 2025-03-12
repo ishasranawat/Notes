@@ -2,9 +2,11 @@ Data types-
 There are two types of data types --- 1. Primitive and 2.Non primitve 
 The classification is done basedon how Js handles data storage, mutability and referencing. 
 
-Primitive- simple, immutable and are stored by value
-Non primitive- complex, mutable and stored by reference
+Primitive- simple, immutable and are stored by value.
+Non primitive- complex, mutable and stored by reference.
 
+
+PRIMITIVE DATA TYPE
 1. string- " "
 2. number- 2 to power 53
 3. big int- very big numbers
