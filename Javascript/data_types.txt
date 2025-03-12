@@ -3,3 +3,5 @@ Data types-
 2. number- 2 to power 53
 3. big int- very big numbers
 4. boolean- true false
+5. null- standalone value 
+6. undefined- value not defined yet
