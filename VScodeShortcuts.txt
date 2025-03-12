@@ -1,1 +1,2 @@
 1. Option + down key- move a line 
+2. Shift+ option+ down- duplicate
