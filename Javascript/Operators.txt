@@ -1,0 +1,5 @@
+1. && - and
+2. || - or
+3. ! - not
+4. === - equal to [compares data types (preferred)] 
+5. == - compares only values 
