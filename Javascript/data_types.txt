@@ -5,3 +5,4 @@ Data types-
 4. boolean- true false
 5. null- standalone value 
 6. undefined- value not defined yet
+7. symbol- unique
