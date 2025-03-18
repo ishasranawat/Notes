@@ -16,3 +16,13 @@ Separating html css and js
 
 *-JS-*
 $("h1").addClass("heading");
+
+
+*-----For multiple classes, write like this-----*
+.heading{
+  color:aquamarine;
+  font-size: 32px;
+}
+.marg{
+  margin:auto;
+}
