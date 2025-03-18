@@ -29,3 +29,6 @@ $("h1").addClass("heading");
 
 //JS
 $("h1").addClass("heading marg");
+
+//To change the html
+$("h1").html("BYE");
