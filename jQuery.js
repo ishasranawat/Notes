@@ -6,8 +6,8 @@ To print the rgb value of h1--     console.log($("h1").css("color"));
 
 If there are two properties in .css(" ", " ") then you are setting the value and if you have one value .css(" ") then you are getting the value.
 
-Separating html css and js
-(To change the heading) 
+//Separating html css and js
+//(To change the heading) 
 *-CSS-*
 .heading{
   color:aquamarine;
@@ -26,3 +26,6 @@ $("h1").addClass("heading");
 .marg{
   margin:auto;
 }
+
+//JS
+$("h1").addClass("heading marg");
