@@ -45,6 +45,9 @@ $("button").after("<button>NEW</button>") //adds a NEW button after EVERY button
 $("h1").append("<button>NEW</button>") // adds a NEW button right after h1 (in the h1 tag itself)
 
 
+//To remove elements
+$("button").remove();
+
 
 
 
