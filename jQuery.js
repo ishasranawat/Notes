@@ -32,3 +32,8 @@ $("h1").addClass("heading marg");
 
 //To change the html
 $("h1").html("BYE");
+
+//To change the css on click
+$("h1").click(function(){
+  $("h1").css("color", "purple");
+});
