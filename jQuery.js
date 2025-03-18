@@ -37,3 +37,31 @@ $("h1").html("BYE");
 $("h1").click(function(){
   $("h1").css("color", "purple");
 });
+
+//To create elements 
+$("h1").before("<button>NEW</button>") //adds a NEW button before h1
+$("button").after("<button>NEW</button>") //adds a NEW button after EVERY button present
+ $("button").prepend("<button>NEW</button>") // adds a NEW button right before all the buttons (in the button tag itself)
+$("h1").append("<button>NEW</button>") // adds a NEW button right after h1 (in the h1 tag itself)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
