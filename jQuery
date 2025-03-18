@@ -1,3 +1,5 @@
+$ is used to select in place of document.querySelector
+
 To change the css of h1--    $("h1").css("color", "red");
 
 To print the rgb value of h1--     console.log($("h1").css("color"));
