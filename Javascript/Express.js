@@ -10,7 +10,7 @@ app.get("/about",(req,res)=>{       // can access it using localhost:3000/about
   res.send("<h1> About me </h1> <p> Hi my name is Isha <p>");
   })
 
-app.get("/contact",(req,res)=>{
+app.get("/contact",(req,res)=>{    // can access it using localhost:3000/contact
   res.send("<h1> Contact Me </h1> <ul> <li> Number-8824042331</li> <li> Email- isha@gmail.com</li> </ul> ");
   })
   
