@@ -14,7 +14,7 @@ app.get("/contact",(req,res)=>{    // can access it using localhost:3000/contact
   res.send("<h1> Contact Me </h1> <ul> <li> Number-8824042331</li> <li> Email- isha@gmail.com</li> </ul> ");
   })
   
-app.get("/", (req, res) =>{
+app.get("/", (req, res) =>{       //prints all the rawheaders in the terminal
   console.log(req.rawHeaders);
 })
 
@@ -22,3 +22,4 @@ app.listen(port, () => {
   console.log(`The server is running on port ${port}`)
 }
 )
+
