@@ -18,7 +18,6 @@ app.get("/", (req, res) =>{
   console.log(req.rawHeaders);
 })
 
-
 app.listen(port, () => {
   console.log(`The server is running on port ${port}`)
 }
