@@ -6,7 +6,7 @@ app.get("/",(req,res)=>{             //send request to print Hello
 res.send("<h1> Hello </h1>");
 })
 
-app.get("/about",(req,res)=>{
+app.get("/about",(req,res)=>{       // can access it using localhost:3000/about 
   res.send("<h1> About me </h1> <p> Hi my name is Isha <p>");
   })
 
