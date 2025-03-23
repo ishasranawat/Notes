@@ -10,12 +10,10 @@ app.get("/about",(req,res)=>{
   res.send("<h1> About me </h1> <p> Hi my name is Isha <p>");
   })
 
-  
 app.get("/contact",(req,res)=>{
   res.send("<h1> Contact Me </h1> <ul> <li> Number-8824042331</li> <li> Email- isha@gmail.com</li> </ul> ");
   })
   
-
 app.get("/", (req, res) =>{
   console.log(req.rawHeaders);
 })
