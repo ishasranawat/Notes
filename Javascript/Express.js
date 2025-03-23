@@ -18,8 +18,9 @@ app.get("/", (req, res) =>{       //prints all the rawheaders in the terminal
   console.log(req.rawHeaders);
 })
 
-app.listen(port, () => {
+app.listen(port, () => {         //fucntion 
   console.log(`The server is running on port ${port}`)
 }
 )
 
+//use nodemon index.js instead of node index.js, it will update the server on its own
